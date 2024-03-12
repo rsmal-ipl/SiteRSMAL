@@ -116,6 +116,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.5.0)
+    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -124,6 +125,7 @@ PLATFORMS
 DEPENDENCIES
   alembic-jekyll-theme (~> 4.1)
   jekyll (~> 4.1)
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.4.19

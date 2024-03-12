@@ -41,11 +41,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Research
-  url: /about/
+  url: /research/
 - title: Teaching
   url: /teaching/
 - title: In Media
-  url: /blog/
+  url: /in_media/
 - title: Contacts
   url: /blog/
 

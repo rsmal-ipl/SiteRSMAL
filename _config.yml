@@ -21,12 +21,16 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://rsmal-ipl.github.io/Site_RSMAL/'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: blank
+first_name: Ricardo
+last_name: Malheiro
+email: ricardo.malheiro@ipleiria.pt
+description: 'Ricardo Malheiro Website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "RM.jpg"
+keywords: Ricardo Malheiro, Site
 
 # Pagination
 paginate: 5
@@ -39,7 +43,7 @@ navigation_header:
 - title: Research
   url: /about/
 - title: Teaching
-  url: /blog/
+  url: /teaching/
 - title: In Media
   url: /blog/
 - title: Contacts

@@ -29,25 +29,23 @@ last_name: Malheiro
 email: ricardo.malheiro@ipleiria.pt
 description: 'Ricardo Malheiro Website'
 permalink: pretty
-logo: "RM.jpg"
+#logo: "RM.jpg"
 keywords: Ricardo Malheiro, Site
 
 # Pagination
-paginate: 5
+paginate: 4
 paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: Research
-  url: /research/
 - title: Teaching
   url: /teaching/
+- title: Research
+  url: /research/
 - title: In Media
   url: /in_media/
-- title: Contacts
-  url: /blog/
 
 
 # Footer nav

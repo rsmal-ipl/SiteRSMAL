@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll site
 on:
   push:
     branches:
-      - master  # ou a branch principal do seu repositório
+      - master  # Ou a branch principal onde está a trabalhar
 
 jobs:
   build:
@@ -30,4 +30,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages  # Configura a branch de destino para gh-pages
         publish_dir: ./_site

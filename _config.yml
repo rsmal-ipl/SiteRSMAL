@@ -1,6 +1,8 @@
 # Set theme
 #theme: minima
 #theme: alembic-jekyll-theme
+title: "Ricardo Malheiro Site"
+description: "Ricardo Malheiro Website"
 remote_theme: daviddarnes/alembic
 
 # File excludes
@@ -23,13 +25,13 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://rsmal-ipl.github.io/Site_RSMAL/'
+url: 'https://rsmal-ipl.github.io/SiteRSMAL/'
 baseurl: ''
-title: blank
+#title: blank
 first_name: Ricardo
 last_name: Malheiro
 email: ricardo.malheiro@ipleiria.pt
-description: 'Ricardo Malheiro Website'
+#description: 'Ricardo Malheiro Website'
 permalink: pretty
 #logo: "RM.jpg"
 keywords: Ricardo Malheiro, Site

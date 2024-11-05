@@ -18,8 +18,8 @@ jobs:
       with:
         ruby-version: '3.1'
 
-    - name: Install Alembic Theme Directly
-       run: gem install alembic-jekyll-theme -v "~> 4.1"
+    #- name: Install Alembic Theme Directly
+    #   run: gem install alembic-jekyll-theme -v "~> 4.1"
   
     - name: Install dependencies
       run: |

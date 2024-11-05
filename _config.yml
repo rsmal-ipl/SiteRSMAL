@@ -1,6 +1,7 @@
 # Set theme
 #theme: minima
-theme: alembic-jekyll-theme
+#theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
